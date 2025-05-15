@@ -2,6 +2,13 @@
 
 A cookie clicker using JavaScript
 
+## Plan
+
+1. Do GitHub branch process
+2. make a wireframe, look at examples and user stories below
+   - see /assets/screenshots/wireframe
+   - it's okay if end webpage doesn't look like wireframe, tlak about it if s o, though
+
 - Main thing is you want a clickable element, doesn't have to be a cookie, can be collect frogs for a pond, animal etc.
 - You have two values you'll be playing with, 1. Total cookies 2. Cookies per second 3. Each upgrade should have a price, so you have to pay with cookies to be (your total cookies go down but cookies per second go up by whatever amount you set)
   a. The idea is the more upgrades you buy the less total cookies, But your cookies per second goes up
@@ -24,3 +31,19 @@ A cookie clicker using JavaScript
   • 🐿️ As a user, I want the game state to be managed every second using setInterval to ensure my progress is saved and the game remains updated.
   § Last two user things are interconnected
   Tip is attempt everything in this user order story, build from the top down,
+
+## Resources
+
+-
+
+## Required (answer these at the least, here)
+
+• 🎯 What requirements did you achieve?
+• 🎯 Were there any requirements or goals that you were unable to achieve?
+🎯 If so, what was it that you found difficult about these tasks?
+Optional
+🏹 Feel free to add any other reflections you would like to share about your submission, for example:
+• Requesting feedback about a specific part of your submission.
+• What useful external sources helped you complete the assignment (e.g Youtube tutorials)?
+• What errors or bugs did you encounter while completing your assignment? How did you solve them?
+What went really well and what could have gone better?
