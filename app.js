@@ -22,7 +22,7 @@ let cps = 0;
 //fetch the upgrades from the api
 // api url: https://cookie-upgrade-api.vercel.app/api/upgrades
 //to create multiple elemnts in a more convenient way, loops are your friend (esp if having more than one upgrade (if have up to ten - will be helped by a loop))
-//once feteched, need to create the elements in the DOM to contain the upgrades data:
+//once fetched, need to create the elements in the DOM to contain the upgrades data:
 //to create multiple elements in a more convenient way, use loops for the below 4 statements
 //create an element
 //assign the value to it's text content

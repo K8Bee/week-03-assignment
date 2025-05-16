@@ -34,7 +34,7 @@ A cookie clicker using JavaScript
 
 ## Resources
 
--
+- https://www.freepik.com/free-vector/green-cartoon-tree-with-hollow-trunk_416324314.htm#fromView=search&page=1&position=12&uuid=d9d1456a-84cd-486c-b084-5b9ba9a63fc6&query=Cartoon+tree+Game
 
 ## Required (answer these at the least, here)
 
