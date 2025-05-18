@@ -2,4 +2,45 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: lightperu;
+}
+
+body {
+  display: flex;
+}
+
+#total-cookies {
+  border: pink;
+}
+
+#cps {
+  border: green;
+}
+
+#cookie-image {
+  width: 300px;
+  height: 400px;
+}
+
+#shop-container {
+  border: 2px;
+  width: 30px;
+  height: 30px;
+  border-color: black;
+}
+
+#upgrade-button1 {
+  border: black;
+}
+
+/* button:focus {
+  outline-color: darkgreen;
+  outline-style: solid;
+  box-shadow: 0 0 0 4px #5a01a7;
+} */
+
+a,
+footer {
+  font-size: x-small;
 }
