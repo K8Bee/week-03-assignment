@@ -3,25 +3,42 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="data:," />
     <script src="app.js" defer></script>
-    <title>Cookie Clicker</title>
+    <title>Pistachio Cookie Clicker</title>
   </head>
   <body>
-    <!-- need a clickable element, e.g. an img of a cookie -->
-    <img
-      src="assets/images/green-cartoon-tree-with-hollow-trunk.png"
-      alt="a green tree"
-    />
-    <a
-      href="https://www.freepik.com/free-vector/green-cartoon-tree-with-hollow-trunk_416324314.htm"
-      >Image by brgfx on Freepik</a
-    >
-
     <!-- need cookie total and the cps (cookies per second) -->
-    <p>Cookie Count =</p>
-    <p>CPS =</p>
+    <section><h1>Click me cookies</h1></section>
+    <section>
+      <p>Total Cookies = <span id="total-cookies">0</span></p>
+    </section>
 
-    <!-- then need a div of shop container -->
-    <div id="shop-container"></div>
+    <section>
+      <p>CPS =</p>
+      <p id="cps"></p>
+    </section>
+
+    <!-- need a clickable element, e.g. an img of a cookie -->
+    <section>
+      <button onclick="addCookie()">Bake more!</button>
+      <img
+        id="cookie-image"
+        src="assets/images/vecteezy_delicious-pistachio-cookie-with-sea-salt-and-chocolate_57190262.PNG"
+        alt="A clickable pistachio cookie with sea salt and chocolate"
+      />
+    </section>
+
+    <!-- need a div for shop container -->
+    <section id="shop-container">
+      <!-- <button type="button" id="upgrade-button1"></button> -->
+    </section>
+
+    <!-- reset button too? -->
+    <footer>
+      <a href="https://www.vecteezy.com/free-png/cookie"
+        >Cookie PNGs by Vecteezy</a
+      >
+    </footer>
   </body>
 </html>
